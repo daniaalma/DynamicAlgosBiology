@@ -11,4 +11,4 @@ Random Walks: template code initialized by Dr. Orit Peleg CU Boulder 2019. My co
 Flocking Behavior: template code initialized by Dr. Orit Peleg CU Boulder 2019. My contribution: scaling factor affect on flock behavior, introduced obstacles in the environment to observe the emergent behavior of the flock. 
 
 
-Biology Presentation: My portion of the final presentation of results for random walks. 
+Biology Presentation: My portion of the final presentation of results for random walks. https://www.youtube.com/watch?v=I_pyIdw8OMo
